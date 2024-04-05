@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 https://github.com/Ahmedhussin1/landing-page-animation-nextJs/assets/77442242/c692e023-50de-4548-94fa-61343f4d9fe3
 
 
